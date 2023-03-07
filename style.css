@@ -1,0 +1,140 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap");
+body {
+  background-color: bisque;
+}
+h2 {
+  font-family: "Oswald", sans-serif;
+  color: brown;
+  font-size: 40px;
+}
+h1 {
+  font-family: "Oswald", sans-serif;
+  font-style: oblique;
+  color: brown;
+  font-weight: normal;
+  font-size: 80px;
+}
+article p {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 500px;
+  color: black;
+}
+a {
+  font-family: "Oswald", sans-serif;
+  color: brown;
+  font-style: oblique;
+  font-size: 40px;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  color: blueviolet;
+}
+a:visited {
+  color: goldenrod;
+}
+
+.photoauthor {
+  margin-left: 55px;
+  width: 500px;
+  border-radius: 5px;
+  box-shadow: 4px 10px 10px 10px rgb(79, 74, 74);
+}
+.page0 {
+  text-align: justify;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 500px;
+  color: black;
+  max-width: 80%;
+  margin: auto;
+  padding: 20px 80px 20px 20px;
+  background-color: cornsilk;
+  border-top: whitesmoke solid 10px;
+  border-left: whitesmoke solid 5px;
+  border-right: whitesmoke solid 2px;
+  border-bottom: none;
+  box-shadow: 0px 5px 10px 0px rgb(79, 74, 74);
+}
+.page1 {
+  text-align: justify;
+  max-width: 80%;
+  margin: auto;
+  padding: 20px 80px 20px 20px;
+  background-color: cornsilk;
+  border-top: whitesmoke solid 10px;
+  border-left: whitesmoke solid 5px;
+  border-right: whitesmoke solid 2px;
+  border-bottom: none;
+  box-shadow: 0px 5px 10px 0px rgb(79, 74, 74);
+}
+.page2 {
+  text-align: justify;
+  max-width: 80%;
+  margin: auto;
+  padding: 20px 80px 20px 20px;
+  background-color: cornsilk;
+  border-top: whitesmoke solid 10px;
+  border-left: whitesmoke solid 5px;
+  border-right: whitesmoke solid 2px;
+  border-bottom: none;
+  box-shadow: 0px 5px 10px 0px rgb(79, 74, 74);
+}
+.page3 {
+  text-align: justify;
+  max-width: 80%;
+  margin: auto;
+  padding: 20px 80px 20px 20px;
+  background-color: cornsilk;
+  border-top: whitesmoke solid 10px;
+  border-left: whitesmoke solid 5px;
+  border-right: whitesmoke solid 2px;
+  border-bottom: none;
+  box-shadow: 0px 5px 10px 0px rgb(79, 74, 174);
+}
+.page4 {
+  text-align: justify;
+  max-width: 80%;
+  margin: auto;
+  padding: 20px 80px 20px 20px;
+  background-color: cornsilk;
+  border-top: whitesmoke solid 10px;
+  border-left: whitesmoke solid 5px;
+  border-right: whitesmoke solid 2px;
+  border-bottom: none;
+  box-shadow: 0px 5px 10px 0px rgb(79, 74, 74);
+}
+.page5 {
+  max-width: 80%;
+  margin: auto;
+  padding: 20px 80px 20px 20px;
+  background-color: cornsilk;
+  border-top: whitesmoke solid 10px;
+  border-left: whitesmoke solid 5px;
+  border-right: whitesmoke solid 2px;
+  border-bottom: none;
+  box-shadow: 0px 5px 10px 0px rgb(79, 74, 74);
+}
+.list {
+  list-style: none;
+}
+.list li {
+  margin: 15px 150px 15px 20px;
+  padding: 25px 50px;
+  border-bottom: 4px dotted brown;
+  border-right: solid 15px whitesmoke;
+  border-left: solid 5px brown;
+  border-top: solid 1px brown;
+  box-shadow: 0px 10px 15px 0px silver;
+  background-color: beige;
+}
+table td {
+  padding: 25px;
+}
